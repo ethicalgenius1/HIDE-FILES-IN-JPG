@@ -1,0 +1,4 @@
+CMD AS ADMIN
+============
+
+copy /b photo.jpg + file.zip photo.jpg
